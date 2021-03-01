@@ -1,0 +1,29 @@
+<!-- #######  My opim lab project #########-->
+<h1 style="color: #B284BE;">Welcome <span style="color: #84DE02;">to my life coaching website</span></h1>
+<h2 style="color: #B284BE;">Mimi's thoughts:</h2>
+<p>I am very confused and do not understand this too well. <br />I really hope this works,</p>
+<p>Please give me an <span style="background-color: #B284BE; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">A</span></p>
+<h2 style="color: #84DE02;">I hope you have a great day today!</h2>
+<ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Mimi's Life</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" />How to clean up your life</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" /> Organizational tools</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/04-replace.png" alt="replace text" width="45" />Do what you love</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" /> Set your goals</li>
+</ol>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<h2 style="color: #84DE02;">Inspirational Thoughts</h2>
+<table class="editorDemoTable">
+<thead>
+<tr>
+<td><strong>Love yourself</strong></td>
+<td><strong>Help Others</strong></td>
+<td><strong>Be Happy</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<p><strong>&nbsp;</strong></p>
+<p><strong>Use these three tips everyday for a happier life. </strong><br /></p>
+<p><strong>&nbsp;</strong></p>
